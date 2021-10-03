@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "832518206811",
+    "project_id": "peliculandia-pro",
+    "storage_bucket": "peliculandia-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832518206811:android:5291161887411d08d9d67e",
+        "android_client_info": {
+          "package_name": "com.peliculandia.pop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832518206811-0dpn92etnb7hko5o7571v2p8sc19t6gt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.peliculandia.pop",
+            "certificate_hash": "36b622d9dc119b9ca63857596e78afb9c112bc01"
+          }
+        },
+        {
+          "client_id": "832518206811-6o74bdo8mggn5gudufrvdl2187upjil7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa60x1DVx5ojC1aKZ7ateazkJdV2I807g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832518206811-6o74bdo8mggn5gudufrvdl2187upjil7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,397 @@
+<resources>
+    <string name="facebook_app_id" translatable="false">553513529335501</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb553513529335501</string>
+    <string name="facebook_application_id" translatable="false">1548843298607838</string>
+
+    <string name="app_id" translatable="false">101E8D07</string>
+    //admob
+    <string name="admob_application_id" translatable="false">ca-app-pub-8545394288685224~1562669270</string>
+    //startapp
+    <string name="startapp_app_id" translatable="false">209411604</string>
+
+    <string name="app_name" translatable="false">Peliculandia Pop</string>
+    <string name="app_name2" translatable="false">Peliculandia Pop</string>
+    <!--app_title for main navigation & home title-->
+    <string name="app_version" translatable="false">2.1.0</string>
+    <string name="contact_email" translatable="false">PeliculandiaPop@roboticsmex.com</string>
+    <string name="copyright_text">Copyright @ Peliculandia Pop, Todos los derechos reservados</string>
+    <!--app_title for main navigation & home title-->
+    <string name="app_title">Peliculandia Pop</string>
+
+    <!-- App -->
+    <string name="featured_tv_channels">Canal de televisión destacado</string>
+    <string name="latest_movie">Últimas películas</string>
+    <string name="latest_tv_series">Últimas series</string>
+    <string name="more">Más</string>
+    <string name="movie">Películas</string>
+    <string name="live_tv">Live TV</string>
+    <string name="tv_series">Series</string>
+    <string name="country">Pais</string>
+    <string name="genre">Categorias:</string>
+    <string name="favorite">Favoritos</string>
+    <string name="Buscar">Buscar</string>
+    <string name="no_item_found">No se encontró ningún artículo</string>
+    <string name="cast_n_crew">Reparto y Equipo:</string>
+    <string name="signin">Iniciar sesión</string>
+    <string name="reset">Restablecer la contraseña</string>
+    <string name="register">Registrarse</string>
+    <string name="full_name">Nombre</string>
+    <string name="email">Email</string>
+    <string name="password">Contraseña</string>
+    <string name="save">Guardar</string>
+    <string name="director">Director:</string>
+    <string name="comments">Commentarios</string>
+    <string name="your_comments">tus comentarios</string>
+    <string name="add_comments">Agregar comentario</string>
+    <string name="no_internet">no hay conexion de internet</string>
+    <string name="fetch_error">No se pudieron recuperar los datos.</string>
+    <string name="login_first">Primero debes iniciar sesión</string>
+    <string name="comment_empty">El comentario no se puede limpiar</string>
+    <string name="error_toast">Algo salió mal ! intenta más tarde</string>
+    <string name="vpn_detected">VPN Detectado!!</string>
+    <string name="close_vpn">Cierre VPN y vuelva a abrir esta aplicación.</string>
+    <string name="track_selection_title">Cambiar de pista</string>
+    <string name="default_stream_quality">Calidad de transmisión predeterminada</string>
+    <string name="default_download_quality">Calidad de descarga predeterminada</string>
+    <string name="notification_error">Error</string>
+    <string name="out_of_memory">No hay espacio disponible.</string>
+
+    <string-array name="nav_item_name">
+        <item>Inicio</item>
+        <item>Películas</item>
+        <item>Series</item>
+        <item>Live TV</item>
+        <item>Categorias</item>
+        <item>Países</item>
+        <item>Perfil</item>
+        <item>Favoritos</item>
+        <item>Configuraciones</item>
+        <item>Cerrar sesión</item>
+        <item>Siguenos en Telegram</item>
+        <item>Siguenos en Facebook</item>
+
+    </string-array>
+
+    <string-array name="nav_item_image">
+        <item>outline_home_24</item>
+        <item>outline_movie_24</item>
+        <item>outline_local_movies_24</item>
+        <item>outline_live_tv_24</item>
+        <item>outline_folder_24</item>
+        <item>outline_outlined_flag_24</item>
+        <item>outline_person_24</item>
+        <item>outline_favorite_border_24</item>
+        <item>outline_settings_24</item>
+        <item>outline_lock_24</item>
+        <item>ic_telegram</item>
+        <item>ic_facebook</item>
+    </string-array>
+
+
+    <string-array name="nav_item_name_2">
+        <item>Inicio</item>
+        <item>Películas</item>
+        <item>Series</item>
+        <item>Live TV</item>
+        <item>Genero</item>
+        <item>Pais</item>
+        <item>Login</item>
+        <item>Configuraciones</item>
+        <item>Siguenos en Telegram</item>
+        <item>Siguenos en Facebook</item>
+    </string-array>
+
+    <string-array name="nav_item_image_2">
+        <item>outline_home_24</item>
+        <item>outline_movie_24</item>
+        <item>outline_local_movies_24</item>
+        <item>outline_live_tv_24</item>
+        <item>outline_folder_24</item>
+        <item>outline_outlined_flag_24</item>
+        <item>outline_lock_24</item>
+        <item>outline_settings_24</item>
+        <item>ic_telegram</item>
+        <item>ic_facebook</item>
+    </string-array>
+
+
+    <!-- payment related to Settings -->
+    <!--PayPal accepted currency-->
+    <string-array name="paypal_currency_list">
+        <item>USD</item>
+        <item>AUD</item>
+        <item>BRL</item>
+        <item>GBP</item>
+        <item>CAD</item>
+        <item>CZK</item>
+        <item>DKK</item>
+        <item>EUR</item>
+        <item>HKD</item>
+        <item>HUF</item>
+        <item>ILS</item>
+        <item>JPY</item>
+        <item>MXN</item>
+        <item>TWD</item>
+        <item>NZD</item>
+        <item>NOK</item>
+        <item>PHP</item>
+        <item>PLN</item>
+        <item>RUB</item>
+        <item>SGD</item>
+        <item>SEK</item>
+        <item>CHF</item>
+        <item>THB</item>
+    </string-array>
+
+
+    <!--search range-->
+    <string name="year_range_start">1900</string>
+    <string name="year_range_end">2021</string>
+
+    <!-- Example General settings -->
+
+    <!-- Example settings for Data & Sync -->
+
+    <!-- Example settings for Notifications -->
+
+    <string name="title_activity_item_show">Peliculandia Pop</string>
+    <string name="title_activity_details">Peliculandia Pop</string>
+    <string name="title_activity_reply">Peliculandia Pop</string>
+    <string name="play_now">Reproducir Ahora</string>
+    <string name="go_premium">Go Premium</string>
+    <string name="program_guide">Guía del programa</string>
+    <string name="live">Live</string>
+    <string name="watching_on">Viendo en vivo</string>
+    <string name="all_tv_channel">Todos los canales de TV</string>
+    <string name="you_may_also_like">También te puede interesar:</string>
+    <string name="dark_mode">Modo oscuro</string>
+    <string name="tv_channels">Sin Anuncios</string>
+    <string name="watching_catch_up_tv">Ver televisión para ponerse al día</string>
+    <string name="deactive_account_text">Si no desea utilizar esta cuenta, puede desactivarla fácilmente.</string>
+    <string name="reason_to_deactivate_account">Razón para desactivar la cuenta</string>
+    <string name="enter_password">Introducir contraseña</string>
+    <string name="long_text">Aliquam eu mauris lectus. Pellentesque lacinia ut urna ut gravida. Proin libero sem, auctor in posuere sit amet</string>
+
+    <string name="terms_condition_text">
+        Aliquam eu mauris lectus. Pellentesque lacinia ut urna ut gravida. Proin libero sem, auctor in posuere sit amet, porta a nibh. Vivamus maximus nunc eu urna pellentesque vulputate. Phasellus lacinia ut diam id mattis. Ut fermentum, sem non viverra maximus, elit massa varius dolor, ac elementum mi nunc eu orci. Fusce ornare mi sed dapibus tempus. Quisque sollicitudin condimentum ex vitae imperdiet. Mauris et est non nibh gravida suscipit eget id est.
+        \n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec venenatis quis elit sed cursus. In commodo malesuada elit. Curabitur eget tortor ipsum. In consequat sollicitudin rhoncus. Donec interdum felis vitae ipsum mattis congue. Suspendisse eget tellus sit amet nunc egestas ultrices. Sed placerat eu arcu vel ullamcorper. Curabitur a dictum odio. Suspendisse fermentum ex vel ullamcorper scelerisque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam at nisl orci. Nullam ligula purus, pulvinar vel ligula sodales, tincidunt porttitor enim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut semper tincidunt scelerisque. Praesent mollis magna ut consequat dictum.
+        \n\nDuis in vestibulum dui, non pulvinar tortor. Maecenas finibus nulla purus, ac consectetur erat finibus vitae. Ut eget convallis dolor. Mauris a leo nunc. Nullam facilisis tincidunt odio eget laoreet. Integer sapien ipsum, fringilla id purus et, cursus convallis dolor. Etiam vel lacinia nibh. Donec sollicitudin fermentum eleifend. Vivamus quis mauris in libero vehicula aliquet sit amet quis odio. Etiam et tincidunt turpis, vel iaculis urna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam et mollis enim.
+        \n\nPraesent interdum lectus suscipit enim dictum, sed laoreet nisl posuere. Curabitur accumsan tellus ac iaculis fermentum. Curabitur a purus nec nibh porta imperdiet. Vivamus dignissim libero ut mauris rhoncus finibus non at urna. Phasellus a varius elit, a blandit est. Cras sodales tincidunt purus sit amet condimentum. Phasellus consectetur sem nec nisi congue, id gravida risus tristique. Curabitur vulputate convallis purus, vel bibendum nunc ultricies at.
+        \n\nInteger condimentum egestas eros mollis facilisis. Praesent vitae diam ac diam efficitur pretium nec vitae dui. Nunc quam est, porttitor ut dapibus non, sodales id nulla. Mauris facilisis malesuada dapibus. Aliquam erat volutpat. Vivamus vitae consequat mauris, nec dictum erat. Aliquam in consectetur est, sit amet varius risus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent vulputate dapibus lorem, ut interdum lectus bibendum nec. Suspendisse potenti. Cras elementum cursus nisl, ac pulvinar eros fringilla vitae. Cras ac tortor sagittis diam feugiat tincidunt id at est. Curabitur consequat ante purus. Nunc malesuada scelerisque leo vel efficitur.
+    </string>
+    <string name="deactivate_account">Desactivar cuenta</string>
+    <string name="explore_by_genre">Explorar por categorias</string>
+    <string name="explore_by_country">Explorar por país</string>
+    <string name="share_this_app">Compartir esta app</string>
+    <string name="connect_to_tv">Conectar a TV</string>
+    <string name="share_body">Me gustaría compartir esta Aplicación de películas y television. Aquí puedes descargar esto de la tienda de juegos. :\n    https://play.google.com/store/apps/details?id=</string>
+    <string name="term_of_services">Términos y Condiciones</string>
+    <string name="accept">Aceptar</string>
+    <string name="decline">Negarse</string>
+    <string name="account_deactivate_info"><![CDATA[Su cuenta se desactivará y solo un administrador podrá activarla nuevamente.]]></string>
+    <string name="regular_program">Programa regular</string>
+    <string name="international">Internacional</string>
+    <string name="server">Server</string>
+    <string name="_1080p">1080P</string>
+    <string name="dummy_name">Jhon Doe</string>
+    <string name="others_small">Otros</string>
+    <string name="no_data_found">Datos no encontrados.</string>
+    <string name="no_subscription_history">No se encontró historial de suscripciones.</string>
+    <string name="plan">Plan</string>
+    <string name="no_active_subscription_found">No se encontró ninguna suscripción activa.</string>
+    <string name="upgrade_membership">Actualizar membresía</string>
+    <string name="p_date">P.Date</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="action">Action</string>
+    <string name="status">Status</string>
+    <string name="by_tapping_the_button_you_agree_to_oxxo_term_amp_condition_and_privacy_policy"><![CDATA[By tapping the button, you agree to Oxxo Term & Condition and Privacy Policy.]]></string>
+
+    <string name="paid_content">Estás intentando ver un contenido pago. Primero, hazte premium.</string>
+    <string name="subscription_required">Se requiere Premium</string>
+    <string name="subscribe_text">Hazte Premium</string>
+    <string name="subscribe_error">Para hacerte premium, primero debe iniciar sesión.</string>
+    <string name="payment_success">Pago exitoso.</string>
+    <string name="invalid_card">Tarjeta no valida</string>
+    <string name="something_went_text">Se produjo un error, inténtelo de nuevo.</string>
+    <string name="something_went_wrong">Algo salió mal.</string>
+    <string name="go_back">Regresa</string>
+    <string name="cvv">CVV</string>
+    <string name="mm_yy">MM/YY</string>
+    <string name="card_number">Número de tarjeta</string>
+    <string name="download_completed">Descarga completa</string>
+    <string name="watch_now">Reproducir</string>
+    <string name="download">Descargar</string>
+    <string name="select_server">Seleccionar servidor</string>
+    <string name="home">Inicio</string>
+    <string name="download_appear_text">Su descarga aparecerá aquí. Descargas no encontradas.</string>
+    <string name="send">Enviar</string>
+    <string name="searcHError_message">El título o el tipo no pueden estar vacíos</string>
+    <string name="buy_any_subscription_below_and_enjoy_oxoo_prime">Compre cualquier suscripción a continuación y disfrute de las funciones principales de OXOO.</string>
+    <string name="all_tv_channels">Canales de televisión</string>
+    <string name="all_kids_videos">Todos los videos para niños</string>
+    <string name="all_tv_series">Todas las series de TV</string>
+    <string name="unlimited_movies">Películas ilimitadas</string>
+    <string name="please_select_your_payment_method">Seleccione su método de pago</string>
+    <string name="external_download_links">Enlaces de descarga externos:</string>
+    <string name="rating">Clasificación</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_to_fav">Agregar a favoritos</string>
+    <string name="remove_from_fav">Quitar de favorito</string>
+
+    <string name="enter_your_activation_code">Ingrese su codigo de activación</string>
+    <string name="enter_code">Ingresa el código aquí</string>
+    <string name="get_activation_code_following">Siga los pasos a continuación para obtener el código:</string>
+    <string name="instruction_2">2. Luego vaya a Configuración.</string>
+    <string name="signout">Desconectar</string>
+    <string name="connect">Conectar</string>
+    <string name="user_name">Nombre de usuario:</string>
+    <string name="emailTv">Email:</string>
+    <string name="expire_date">Fecha de caducidad:</string>
+    <string name="signed_in_as">Registrado como:</string>
+    <string name="connecting">Conectando…</string>
+    <string name="active_plan">Plan activo:</string>
+
+    <!-- dialog instruction -->
+    <string name="enter_below_code_on_your_tv">Ingrese el siguiente código en su televisor</string>
+    <string name="all_radio_channels">Todos los canales de radio</string>
+    <string name="listening_on">Escuchando</string>
+    <string name="sign_up_now">Regístrate ahora</string>
+    <string name="continue_with_google">Continuar con Google</string>
+    <string name="login_using_your_email_address">Inicie sesión con su dirección de correo electrónico</string>
+    <string name="email_address">Dirección de correo electrónico</string>
+    <string name="dont_t_have_an_account">¿No tienes una cuenta?</string>
+    <string name="sign_up_using_your_email_address">Regístrese usando su dirección de correo electrónico</string>
+    <string name="name">Nombre</string>
+    <string name="select_download_server">Seleccione el servidor de descarga</string>
+    <string name="download_not_permitted">Debe tener una suscripción para descargar este video.</string>
+    <string name="file_already_downloaded">Archivo ya descargado.</string>
+    <string name="file_not_found">Archivo no encontrado</string>
+    <string name="user_name_">Nombre de usuario:</string>
+    <string name="active_plan_">Plan activo:</string>
+    <string name="email_">Email:</string>
+    <string name="expire_date_">Fecha de caducidad:</string>
+    <string name="active_subscription">Suscripción activa</string>
+    <string name="popular_stars">Estrellas Populares</string>
+    <string name="report">Reportar</string>
+
+    <string name="instruction_3">3. Luego haga clic en "Conectar a TV".</string>
+
+    <!-- dialog instruction -->
+    <string name="dialog_instruction_1">1. Ve a tu </string>
+    <string name="dialog_instruction_2">aplicación en su teléfono.</string>
+    <string name="dialog_instruction_3">2. Compre un paquete</string>
+    <string name="continue_browsing">Continuar navegando</string>
+    <string name="type_keyword">Escriba la palabra clave</string>
+    <string name="year_range">Rango de año</string>
+    <string name="cancel">Cancelar</string>
+    <string name="tv_category">Categoría de TV</string>
+    <string name="sign_up">Regístrate</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="all_countries">Todos los países</string>
+    <string name="all_categories">todas las categorias</string>
+    <string name="external_download">Descarga externa</string>
+    <string name="inApp_download">En la descarga de la aplicación</string>
+    <string name="all_genres">Todas las Categorias</string>
+    <string name="phone_number">Número de teléfono</string>
+    <string name="gender">Género</string>
+    <string name="male">Masculino</string>
+    <string name="no_download_server_found">No se encontró ningún enlace de descarga</string>
+    <string name="failed_to_communicate">Error, Intente denuevo o Actualice la Aplicacion</string>
+    <string name="no_configuration_data_found">No se encontraron datos de configuración.</string>
+    <string name="please_login_first_to_see_favorite_list">Inicie sesión para ver la lista de favoritos.</string>
+    <string name="episode">Episodio</string>
+    <string name="continue_watching">Continua viendo</string>
+    <string name="trailer">Trailer</string>
+    <string name="report_intro">Describe tu problema para que podamos solucionarlo lo antes posible. Nota: Esta función se usa para informar sobre la película actual, no se usa para solicitar nuevos subtítulos / audio en otros idiomas.</string>
+    <string name="broken">Roto</string>
+    <string name="wrong_movie">Película incorrecta</string>
+    <string name="not_synced">No sincronizado</string>
+    <string name="audio">Audio</string>
+    <string name="wrong_subtitle">Subtítulos incorrectos</string>
+    <string name="missing_subtitle">Falta de subtítulos</string>
+    <string name="your_name">Tu nombre</string>
+    <string name="message">Mensaje</string>
+    <string name="movie_name">Nombre de la película</string>
+    <string name="already_have_an_account">¿Ya tienes una cuenta?</string>
+    <string name="download_started_on_notification_bar">Descarga iniciada.</string>
+    <string name="clear">Limpiar</string>
+    <string name="passwordnocoincide">Las contraseñas no coinciden.</string>
+    <string name="contraseñaokcambiada">Contraseña establecida correctamente</string>
+    <string name="algosaliomal">Algo salió mal</string>
+    <string name="ingresepeticion">Por favor ingrese su solicitud</string>
+    <string name="ingresecontraseña">Por favor, introduzca su contraseña</string>
+    <string name="txttituloperfil">Mi Perfil</string>
+
+    <string name="error_toastnueva">¡Atencion</string>
+    <string name="appinstaladaok">La nueva version ya esta instalada puedes desintalar la version antigua desde un click o manualmente</string>
+
+    <string name="notifications">NOTIFICACIONES</string>
+    <string name="push_notification">Notificaciones push</string>
+    <string name="copyright">Derechos de autor</string>
+    <string name="contact_us">Contacta con nosotros</string>
+    <string name="others">OTROS</string>
+    <string name="no_video_found">No funciona el video</string>
+    <string name="agregadofav">Agregado a favoritos</string>
+    <string name="removedfavo">Eliminado de favoritos</string>
+
+
+    <string name="downloading">Descargando...</string>
+    <string name="title_file_download">Peliculandia Pop esta siendo descargado</string>
+    <string name="storage_access_required">Se requiere acceso al almacenamiento para descargar el archivo.</string>
+    <string name="storage_permission_denied">Se rechazó la solicitud de permiso de almacenamiento.</string>
+
+    <string name="ok">OK</string>
+    <string name="error_ocurr">"Ups tenemos un error "</string>
+    <string name="m_load">Cargando...</string>
+    <string name="zoom_in">Original</string>
+    <string name="zoom_out">Zoom</string>
+    <string name="url_empty">URL VACIA!</string>
+    <string name="not_supported_host">Host no soportado</string>
+    <string name="not_supported_host_dw">Host no soportado para descarga</string>
+    <string name="descargando">Descargando actualizacion progreso en la barra superior</string>
+    <string name="nuevousuario">Nuevo usuario?</string>
+    <string name="registrarse">Registrarse gratis</string>
+    <string name="olvidastepassword">Olvidaste tu password?</string>
+    <string name="configurarpass">Configurar password</string>
+    <string name="nuevopassword">Nuevo password (opcional)</string>
+    <string name="contraseñaactual">Contraseña actual</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="namearchivo">Nombre del archivo</string>
+    <string name="reporte">Reporte de DDLJ:</string>
+    <string name="enviar">Enviar</string>
+    <string name="peticionMovie">Peticion Pelicula</string>
+    <string name="cerrar">Cerrar</string>
+    <string name="confirmpass">Confirmar Password</string>
+    <string name="setpassword">Cambiar password</string>
+    <string name="cambiar">Cambiar</string>
+    <string name="resultadosbusq">Resultados de la busqueda</string>
+    <string name="resultadosfalla">Algo salió mal</string>
+    <string name="resultadostitulo">"Mostrando Resultados : "</string>
+    <string name="cambiosRealizados">Cambios realizados correctamente</string>
+    <string name="abrircerrar">cerrar y abrir aplicacion para reflejar cambios</string>
+    <string name="media_route_menu_title">cast</string>
+    <string name="request">Peticion de Pelicula</string>
+    <string name="search">Buscar</string>
+    <string name="noresultados">No tenemos resultados pidela en telegram o desde la app</string>
+    <string name="txttituloajustes">Ajustes</string>
+    <string name="notifications2">Notificaciones</string>
+    <string name="recibenotificaciones">Recibe notificaciones</string>
+    <string name="enviarpeticion">Enviar peticion de pelicula</string>
+    <string name="comparte">Comparte</string>
+    <string name="comparteestaapp">Comparte esta app</string>
+    <string name="ADMOB_BANNER_PLAYER">ca-app-pub-8545394288685224/9800251940</string>
+    <string name="ADMOB_INTERSTITIAL_LOCAL">ca-app-pub-8545394288685224/1295075961</string>
+    <string name="interstitial_ad_unit">ca-app-pub-8545394288685224/1295075961</string>
+    <string name="banner">ca-app-pub-8545394288685224/9800251940</string>
+    <string name="adInterstitial">ca-app-pub-8545394288685224/1295075961</string>
+    <string name="calificanos">Calificanos</string>
+    <string name="aviso">Te encanta nuestra aplicacion? Regalanos 5 estrellas</string>
+    <string name="continuar">Calificar</string>
+    <string name="terminarpartida">Despues</string>
+    <string name="desdegoogle">Desde Google Play</string>
+    <string name="actualizadesdeaqui">Actualizar aqui</string>
+
+</resources>
